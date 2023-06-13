@@ -1,1 +1,1 @@
-# miniproject
+# Mobile Price Prediction
